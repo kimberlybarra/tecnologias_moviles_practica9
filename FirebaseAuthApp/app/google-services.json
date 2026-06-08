@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183739940382",
+    "project_id": "fir-authapp-bef72",
+    "storage_bucket": "fir-authapp-bef72.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183739940382:android:62de4142a7ba9d8c0bb80f",
+        "android_client_info": {
+          "package_name": "com.kimberly.firebaseauthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoWLNJJmJTzQesL_sjCOeY3BQgmB7bZCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
