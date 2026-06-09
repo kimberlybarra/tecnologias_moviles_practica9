@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804454701926",
+    "project_id": "marketplaceucsm",
+    "storage_bucket": "marketplaceucsm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804454701926:android:bd19b7d7bd5c83f70f46a7",
+        "android_client_info": {
+          "package_name": "com.kimberly.marketplaceucsm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD261kGH0pYcc6i2wPOwErja12FtUulVGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
